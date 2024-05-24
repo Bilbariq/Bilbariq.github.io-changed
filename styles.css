@@ -1,0 +1,54 @@
+body {
+    background-color: #f4f4f4; /* Set background to light gray */
+    color: #333;               /* Set text color to dark gray */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: 2px solid #555; /* Dark gray border */
+    background-color: #222;        /* Dark background color */
+}
+
+h1 {
+    margin: 0;
+    font-size: 3em; /* Larger font size */
+    color: #fff;    /* White text color */
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 2em;            /* Larger font size */
+    border-bottom: 2px solid #555; /* Dark gray border */
+    padding-bottom: 10px;
+    color: #444;                /* Dark gray text color */
+}
+
+p {
+    font-size: 1.2em; /* Slightly larger font size */
+    line-height: 1.6em;
+    color: #555;       /* Dark gray text color */
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    border-top: 2px solid #555; /* Dark gray border */
+    margin-top: 20px;
+    background-color: #222;     /* Dark background color */
+}
+
+footer p {
+    margin: 5px 0;  /* Add some margin between footer paragraphs */
+    color: #fff;    /* White text color */
+}
